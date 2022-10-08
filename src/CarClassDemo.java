@@ -38,4 +38,13 @@ public class CarClassDemo {
     }
 
 
+    //adding functionality to a class
+    public String run(){
+        if(doors.equals("closed") && engine.equals("on") && driver.equals("seated") && speed>0){
+        return "is running";
+        }
+        else{
+            return "is not running";
+        }
+    }
 }
