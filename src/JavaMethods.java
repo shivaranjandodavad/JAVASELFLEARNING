@@ -17,7 +17,7 @@ public class JavaMethods {
 
     }
 
-    private static void evenNo(int sno, int endno) {
+    public static void evenNo(int sno, int endno) {
         System.out.println("Evem numbers between "+sno+"to  "+endno+" are :");
 
         for(int n=sno;n<=endno;n++) {
@@ -26,7 +26,7 @@ public class JavaMethods {
         }
     }
 
-    private static void oddNo(int sno, int endno) {
+    public static void oddNo(int sno, int endno) {
         System.out.println("Odd numbers between "+sno+"to  "+endno+" are :");
 
         for(int n=sno;n<=endno;n++) {
@@ -35,7 +35,7 @@ public class JavaMethods {
         }
     }
 
-    private static void naturalNumsRange(int sno,int endno) {
+    public static void naturalNumsRange(int sno,int endno) {
         System.out.println("Natural numbers between "+sno+"to  "+endno+" are :");
 
         for(int n=sno;n<=endno;n++) {
@@ -44,7 +44,7 @@ public class JavaMethods {
 
     }
 
-    private static void naturalNums() {
+    public static void naturalNums() {
         for(int i=1;i<=100;i++){
             System.out.println(i);
         }
