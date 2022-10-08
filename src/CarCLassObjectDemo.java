@@ -3,7 +3,10 @@ public class CarCLassObjectDemo {
         //creating object
         CarClassDemo car =new CarClassDemo();
         car.setSpeed(10);
-        System.out.println(car.getSpeed());
+        System.out.println("Speed of the car is "+car.getSpeed()+"Km/h");
+        car.setDoors("closed");
+        System.out.println("Car door is "+car.getDoors());
 
     }
+
 }
