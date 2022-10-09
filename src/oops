@@ -27,3 +27,35 @@ super() it is used invoke the properties of supeclass constructer
 
 overide:custom version of functionality overiding parent
 
+
+inheritance types
+1.single inheritance
+classA---> classB
+one class one child
+class A parent class
+class B child class
+2.multiple inheritance
+class A   class B
+    |      |
+    class C
+inheriting the propeties of morethan one class
+multiple inheritance is not allowed in java
+reason : class A & class  B possiblity having same method name to safeguard ambiguity
+
+
+3. multilevel inheritance
+class A
+    |
+class B
+    |
+class C
+
+4. Hierarchial inheritance
+       _______class A_____
+       |       |          |
+   Class B Class C    Class D
+
+parent classes having multiple child classes
+
+Hybrid inheritance not allowed in java it again inhibit multiple inheritance
+
