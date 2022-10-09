@@ -4,7 +4,8 @@ OOPS
 1 class
 2 object
 3.constructer
-4e Inheritance
+4 Inheritance
+5 compostion
 
 class is a custome datatype/it is template of an object
 object : realworld entity//depicts real world scenario
@@ -59,3 +60,4 @@ parent classes having multiple child classes
 
 Hybrid inheritance not allowed in java it again inhibit multiple inheritance
 
+compsition: multiple components work together
