@@ -4,7 +4,7 @@ OOPS
 1 class
 2 object
 3.constructer
-
+4e Inheritance
 
 class is a custome datatype/it is template of an object
 object : realworld entity//depicts real world scenario
@@ -16,5 +16,14 @@ class : blueprint or template of an object
 
 constructer:method having same name as the class name which has no return type
 
+Inheritance Parent entity and child entity has a IS A relationship in between
+inheriting the properties of parent class to subclass
+using extends keyword we can inherit the parent class to subclass
 
+
+private entites will not be inherited
+
+super() it is used invoke the properties of supeclass constructer
+
+overide:custom version of functionality overiding parent
 
