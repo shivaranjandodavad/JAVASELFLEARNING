@@ -21,6 +21,7 @@ Inheritance Parent entity and child entity has a IS A relationship in between
 inheriting the properties of parent class to subclass
 using extends keyword we can inherit the parent class to subclass
 
+9
 
 private entites will not be inherited
 
