@@ -26,7 +26,7 @@ public class GenericWildcard {
         ArrayList<Integer> arrayList=new ArrayList<Integer>();
         integerElements(arrayList);
         viewData(arrayList);
-        //100
+        //100Nav
 
     }
 }
