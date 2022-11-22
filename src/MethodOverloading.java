@@ -26,3 +26,9 @@ public class MethodOverloading {
         objDemo.area(5,7.8f);
     }
 }
+/*
+Area of the square = 25
+Area of the rectangle = 35
+Area of the triangle = 39.0
+
+ */
