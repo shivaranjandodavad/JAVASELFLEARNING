@@ -5,7 +5,7 @@ class  Demo{
     public Demo(){
         i=5;
         j=10;
-        System.out.println("Inside consturctor");
+
     }
 }
 
