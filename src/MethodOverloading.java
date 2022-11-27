@@ -24,7 +24,9 @@ public class MethodOverloading {
         objDemo.area(5);
         objDemo.area(5,7);
         objDemo.area(5,7.8f);
+
     }
+
 }
 /*
 Area of the square = 25
